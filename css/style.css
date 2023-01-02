@@ -1,0 +1,53 @@
+
+/******************************HERO SECTION*******************************************/
+
+#hero-section {
+    background-image:url(../img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+#text-hero {
+    background-color: rgb(4, 120, 77);
+    font-weight: bold;
+    font-size: large;
+}
+
+/**********************FROM BLOG******************************************************/
+#from-blog {
+    padding-top: 30px;
+}
+
+/*********************SECTION-4**************************************************/
+#section-4 {
+    padding-top: 30px;
+}
+
+#section-4 h6 {
+    color: white;
+    font-size: 16px;   
+}
+.links {
+    padding: 0%;
+    font-size: 13px;
+    margin-top: 5px;
+    
+}
+
+hr {
+    margin: 5px 0;
+    color: rgb(145, 145, 145);
+    opacity: 5px;
+}
+
+#section-4 a {
+    text-decoration: none;
+    color: rgb(194, 189, 189);
+}
+
+/*******************************FOOTER*****************************************/
+
+#footer{
+    background-color: black;
+}
